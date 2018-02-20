@@ -48,3 +48,15 @@ Convert a number to a string, the contents of which depend on the number's facto
 - 34 has four factors: 1, 2, 17, and 34.
   - In raindrop-speak, this would be "34".
   ```
+
+ #### #5 Difference Of Squares:
+
+Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
+
+```
+The square of the sum of the first ten natural numbers is
+(1 + 2 + ... + 10)² = 55² = 3025.
+The sum of the squares of the first ten natural numbers is
+1² + 2² + ... + 10² = 385.
+Hence the difference is 3025 - 385 = 2640.
+```
