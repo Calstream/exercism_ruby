@@ -60,3 +60,13 @@ The sum of the squares of the first ten natural numbers is
 1² + 2² + ... + 10² = 385.
 Hence the difference is 3025 - 385 = 2640.
 ```
+
+#### # Pangram
+
+Determine if a sentence is a pangram. A pangram is a sentence using every letter of the alphabet at least once.
+The best known English pangram is:
+```
+The quick brown fox jumps over the lazy dog.
+```
+The alphabet used consists of ASCII letters `a` to `z`, inclusive, and is case
+insensitive. Input does not contain non-ASCII symbols.
